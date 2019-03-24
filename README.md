@@ -1,11 +1,11 @@
 # Kullanici-Etkilesimli-Karne-Uygulamasi
 
-// Öğrenci sayısını, ortalamalarını ve başarı sıralamalarını gösteren kullanıcılı etkileşimli C programı 
+// Öğrenci sayısını, ortalamalarını ve başarı sıralamalarını gösteren kullanıcılı etkileşimli C programı
 
-#include<stdio.h>
-#include<stdlib.h>
-int main()
-{
+
+
+
+    int main(){
     int AA=0, BB=0, CC=0, DD=0, FF=0, index, index2;
     int selection, i, a, count, min, max;
     double ort, toplam;
